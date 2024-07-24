@@ -1,5 +1,7 @@
 # ReactPhoenixTodoList
 
+A to-do list app with Phoenix, React, and TypeScript.
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
